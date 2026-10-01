@@ -8,8 +8,8 @@ My work focuses on clear product information, responsive interfaces, technical S
 
 ## Tools and resources
 
-- [Redirect Map Checker](https://github.com/awesomellm/redirect-map-checker) — a JavaScript checker for redirect loops, chains, duplicate sources, and conflicting mappings. [Try it online](https://zequnweb.com/tools/redirect-map-checker/).
-- [Website Migration Kit](https://github.com/awesomellm/website-migration-kit) — URL planning, project brief, and launch acceptance templates.
+- [Redirect Map Checker](https://github.com/awesomellm/redirect-map-checker/blob/main/README.md) — a JavaScript checker for redirect loops, chains, duplicate sources, and conflicting mappings. [Try it online](https://zequnweb.com/tools/redirect-map-checker/).
+- [Website Migration Kit](https://github.com/awesomellm/website-migration-kit/blob/main/README.md) — URL planning, project brief, and launch acceptance templates.
 - [Codex Reset Tracker](https://zequnweb.com/tools/codex-reset-tracker/) — public reset announcements, historical records, and the method behind the outlook.
 
 ## Website projects

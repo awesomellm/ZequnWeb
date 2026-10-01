@@ -8,7 +8,7 @@
 
 ## 工具與資源
 
-- [重新導向對照檢查器](https://github.com/awesomellm/redirect-map-checker/blob/main/README.zh-HK.md)：用於檢查重新導向循環、連鎖跳轉、重複來源和目標衝突的 JavaScript 工具。[線上使用](https://zequnweb.com/tools/redirect-map-checker/)（網頁介面為英文）。
+- [重新導向對照檢查器](https://github.com/awesomellm/redirect-map-checker/blob/main/README.zh-HK.md)：用於檢查重新導向循環、連鎖跳轉、重複來源和目標衝突的 JavaScript 工具。
 - [網站遷移範本](https://github.com/awesomellm/website-migration-kit/blob/main/README.zh-HK.md)：用於 URL 規劃、項目需求整理和上線驗收的範本。
 - [Codex 重設追蹤器](https://zequnweb.com/zh-hk/tools/codex-reset-tracker/)：整理公開的重設公告、歷史紀錄和預測方法。
 

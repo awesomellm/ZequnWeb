@@ -8,7 +8,7 @@
 
 ## 工具与资料
 
-- [重定向映射检查器](https://github.com/awesomellm/redirect-map-checker/blob/main/README.zh-CN.md)：用于检查重定向循环、链式跳转、重复来源和目标冲突的 JavaScript 工具。[在线使用](https://zequnweb.com/tools/redirect-map-checker/)（网页界面为英文）。
+- [重定向映射检查器](https://github.com/awesomellm/redirect-map-checker/blob/main/README.zh-CN.md)：用于检查重定向循环、链式跳转、重复来源和目标冲突的 JavaScript 工具。
 - [网站迁移模板](https://github.com/awesomellm/website-migration-kit/blob/main/README.zh-CN.md)：用于 URL 规划、项目需求整理和上线验收的模板。
 - [Codex 重置追踪器](https://zequnweb.com/zh/tools/codex-reset-tracker/)：整理公开的重置公告、历史记录和预测方法。
 

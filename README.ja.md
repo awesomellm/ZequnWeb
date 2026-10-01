@@ -8,7 +8,7 @@
 
 ## ツールと資料
 
-- [リダイレクトマッピングチェッカー](https://github.com/awesomellm/redirect-map-checker/blob/main/README.ja.md)：リダイレクトのループ、チェーン、転送元の重複、転送先の競合を検出する JavaScript ツールです。[ブラウザーで試す](https://zequnweb.com/tools/redirect-map-checker/)（画面は英語です）。
+- [リダイレクトマッピングチェッカー](https://github.com/awesomellm/redirect-map-checker/blob/main/README.ja.md)：リダイレクトのループ、チェーン、転送元の重複、転送先の競合を検出する JavaScript ツールです。
 - [ウェブサイト移行テンプレート](https://github.com/awesomellm/website-migration-kit/blob/main/README.ja.md)：URL の移行計画、プロジェクト要件、公開時の確認に使えるテンプレートです。
 - [Codex リセットトラッカー](https://zequnweb.com/jp/tools/codex-reset-tracker/)：公開されたリセットのお知らせ、過去の記録、予測方法をまとめています。
 
