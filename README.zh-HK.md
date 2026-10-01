@@ -1,17 +1,26 @@
-# ZequnWeb
+# ZequnWeb — 網站工程與內容資料
 
 [English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [繁體中文](README.zh-HK.md)
 
-我為服務國際客戶的企業製作 B2B 網站和實用的網頁工具。
+我製作企業網站及實用網頁工具。這裏公開可重用程式碼、交付表格及 ZequnWeb 的實作記錄。每篇指南都有獨立的英文、簡體中文、日文及繁體中文版本，內容連結指向相應語言。
 
-我着重清晰的產品資訊、適配不同裝置的網頁、技術 SEO 基礎，以及方便客戶聯絡和查詢報價的流程。
+## 專案
 
-## 工具與資源
+- [multilingual-website-starter](https://github.com/awesomellm/multilingual-website-starter/blob/main/README.zh-HK.md)：可運行四語言網站：對應頁面、中繼資料、語言資料及詢盤草稿。
+- [website-seo-checker](https://github.com/awesomellm/website-seo-checker/blob/main/README.zh-HK.md)：離線靜態 HTML 檢查，提供四語言報告。
+- [website-migration-kit](https://github.com/awesomellm/website-migration-kit/blob/main/README.zh-HK.md)：遷移實戰及十二類四語言工作表。
+- [redirect-map-checker](https://github.com/awesomellm/redirect-map-checker/blob/main/README.zh-HK.md)：重定向圖檢查及 Cloudflare、Nginx、Apache 設定教學。
+- [practical-calculators](https://github.com/awesomellm/practical-calculators/blob/main/README.zh-HK.md)：十二類計算器、型別宣告、範例及 123 項迴歸測試。
+- [codex-reset-tracker](https://github.com/awesomellm/codex-reset-tracker/blob/main/README.zh-HK.md)：公開事件處理、條件頻率、虛構範例及 20 項測試。
 
-- [重新導向對照檢查器](https://github.com/awesomellm/redirect-map-checker/blob/main/README.zh-HK.md)：用於檢查重新導向循環、連鎖跳轉、重複來源和目標衝突的 JavaScript 工具。
-- [網站遷移範本](https://github.com/awesomellm/website-migration-kit/blob/main/README.zh-HK.md)：用於 URL 規劃、項目需求整理和上線驗收的範本。
-- [Codex 重設追蹤器](https://zequnweb.com/zh-hk/tools/codex-reset-tracker/)：整理公開的重設公告、歷史紀錄和預測方法。
+## 實作案例與方法
 
-## 網站項目
+- [多語言內容與中繼資料案例](MULTILINGUAL-CASE.zh-HK.md)
+- [響應式圖片交付案例](IMAGE-DELIVERY-CASE.zh-HK.md)
+- [詢盤收件與驗收方法](INQUIRY-RECEIPTS.zh-HK.md)
+- [B2B 內容規劃與證據](B2B-CONTENT.zh-HK.md)
+- [SEO、回答可見性及業務測量](MEASUREMENT.zh-HK.md)
 
-瀏覽 [ZequnWeb 繁體中文網站](https://zequnweb.com/zh-hk/)，了解 B2B 網頁設計、網站開發服務和項目紀錄。
+可以先運行網站範例及檢查器，再用表格規劃真實內容與驗收，描述結果前查看案例記錄。歷史本機檢查註明日期及範圍，概念範例明確標示。原始碼使用共用技術識別碼，讀者指南及工作表正文使用所選語言。
+
+[繁體中文網站](https://zequnweb.com/zh-hk/)

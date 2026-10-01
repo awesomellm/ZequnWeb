@@ -1,0 +1,46 @@
+{
+  "publisher": "ZequnWeb",
+  "recordedDate": "2026-09-10",
+  "publishedDate": "2026-09-12",
+  "scope": "Historical local static output verification, not search rankings, traffic, leads or a claim about the current live deployment.",
+  "recordSources": [
+    "docs/seo-content-2026-09-10/GEO-FIX.md",
+    "docs/seo-content-2026-09-10/geo-fix-verification.json"
+  ],
+  "build": {
+    "staticGenerationTasks": 197,
+    "htmlFilesChecked": 196
+  },
+  "checks": {
+    "seo": "passed",
+    "geo": "passed",
+    "internalLinks": "passed",
+    "contentDateRegressionTests": 3
+  },
+  "portfolioVerification": {
+    "/work/": {
+      "schemaDateModified": "2026-09-06",
+      "sitemapLastModified": "2026-09-06T00:00:00.000Z",
+      "itemListCount": 16
+    },
+    "/zh/work/": {
+      "schemaDateModified": "2026-09-06",
+      "sitemapLastModified": "2026-09-06T00:00:00.000Z",
+      "itemListCount": 16
+    },
+    "/hk/work/": {
+      "schemaDateModified": "2026-09-10",
+      "sitemapLastModified": "2026-09-10T00:00:00.000Z",
+      "itemListCount": 8
+    },
+    "/zh-hk/work/": {
+      "schemaDateModified": "2026-09-10",
+      "sitemapLastModified": "2026-09-10T00:00:00.000Z",
+      "itemListCount": 8
+    },
+    "llmsLinks": {
+      "/work/3d-turtle/": true,
+      "/zh/work/3d-turtle/": true
+    }
+  }
+}

@@ -1,0 +1,6 @@
+﻿Metric,Before bytes,After bytes,Change,Recorded date,Measurement scope
+Largest shared logo,265115,6836,−97.4%,2026-09-30,Historical local export; not live network or business outcomes
+Homepage referenced JavaScript,787479,674140,−14.4%,2026-09-30,Historical local export; not live network or business outcomes
+Homepage referenced CSS,280232,256906,−8.3%,2026-09-30,Historical local export; not live network or business outcomes
+Local JavaScript gzip estimate,240564,203209,−15.5%,2026-09-30,Historical local export; not live network or business outcomes
+Local CSS gzip estimate,52086,46787,−10.2%,2026-09-30,Historical local export; not live network or business outcomes
