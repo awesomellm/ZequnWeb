@@ -1,5 +1,7 @@
 # ZequnWeb
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [繁體中文](README.zh-HK.md)
+
 I build B2B websites and practical web tools for companies serving international customers.
 
 My work focuses on clear product information, responsive interfaces, technical SEO foundations, and useful enquiry paths.
@@ -13,6 +15,3 @@ My work focuses on clear product information, responsive interfaces, technical S
 ## Website projects
 
 [Explore ZequnWeb](https://zequnweb.com/) for B2B website design, development, and project notes.
-
-中文：[外贸网站建设与 B2B 独立站设计](https://zequnweb.com/zh/)。
-
